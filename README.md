@@ -1,4 +1,4 @@
 music
 =====
 
-Simple music discovery 
+Music discovery.
